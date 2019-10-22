@@ -1,0 +1,1 @@
+If a random mutation is not lethal, it can add to the  genetic variation of a population. The larger the population, the more opportunities  there will be for mutations to appear within it. As the  number of mutations accumulates in the population  over time, evolution occurs.

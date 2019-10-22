@@ -1,0 +1,7 @@
+Double-spaces have been left as they are--incorrect spacing will be rectified by the split method.
+
+All phrases and sentences with "FIGURE x" as the subject have been removed.
+
+All phrases and sentences referring to another chapter have been removed.
+
+
